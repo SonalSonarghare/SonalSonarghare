@@ -61,7 +61,7 @@
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalsonarghare&show_icons=true&locale=en&layout=compact" alt="sonalsonarghare" height="200" width="500" /></p>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalsonarghare&show_icons=true&locale=en" alt="sonalsonarghare" </p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=sonalsonarghare&show_icons=true&locale=en" alt="sonalsonarghare" </p>
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonalsonarghare&" alt="sonalsonarghare" /></p>
 
@@ -74,4 +74,4 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalsonarghare&label=Profile%20views&color=0e75b6&style=flat" alt="sonalsonarghare" /> </p>
 
 <img align="left" src="https://github.com/SonalSonarghare/SonalSonarghare/assets/116957485/e8eba7de-77e2-4338-95f2-1c64692763e1" width="400" height="300">
-<img align="right" src="https://github.com/SonalSonarghare/SonalSonarghare/assets/116957485/2056bedc-380c-4b30-a25d-7048229ddb18" width="400" height="300">
+
