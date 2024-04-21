@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **my latest project SAFER and ArticleImage-Generation**
 
-- 📫 How to reach me [soanlsonarghare30@gmail.com](mailto:soanlsonarghare30@gmail.com)
+- 📫 How to reach me [soanlsonarghare30@gmail.com](mailto:sonalsonarghare30@gmail.com)
 
 
 
