@@ -8,8 +8,10 @@
 - 🔭 I’m currently working on **Generative AI and Hybrid Recommendation Model**
 
 - 🌱 I’m currently learning **Django,LangChain and Kotlin**
+  
+- 🌍 Mastered **Google Earth Engine(GEE)**
 
-- ✨ I'm **Data Science** Enthusiast
+- ✨ I'm **Data Science Enthusiast**
 
 - 💬 Ask me about **my latest project SAFER and ArticleImage-Generation**
 
