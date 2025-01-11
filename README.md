@@ -5,15 +5,15 @@
 
   <img align="right" src="https://github.com/SonalSonarghare/SonalSonarghare/assets/116957485/153cc10e-ce9e-4b78-8c6f-aa4942c827a3" width="300" height="200">
 
-- 🔭 I’m currently working on **Generative AI and Hybrid Recommendation Model**
+- 🔭 I’m currently working on **Geospatail data and prediction model**
 
-- 🌱 I’m currently learning **Django,LangChain and Kotlin**
+- 🌱 I’m currently learning **Django**
   
 - 🌍 Mastered **Google Earth Engine(GEE)**
 
 - ✨ I'm **Data Science Enthusiast**
 
-- 💬 Ask me about **my latest project SAFER and ArticleImage-Generation**
+- 💬 Ask me about **my latest project SAFER and QuickReads**
 
 - 📫 How to reach me [sonalsonarghare30@gmail.com](mailto:sonalsonarghare30@gmail.com)
 
