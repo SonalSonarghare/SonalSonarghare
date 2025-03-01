@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on **Geospatail data and prediction model**
 
-- 🌱 I’m currently learning **Django**
+- 🤖 Exploring **AI agents** for decision-making
+- 
+- 📊 Researching ML applications in **Insurance**
   
 - 🌍 Mastered **Google Earth Engine(GEE)**
 
